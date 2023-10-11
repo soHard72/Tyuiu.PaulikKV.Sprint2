@@ -26,7 +26,7 @@ namespace Tyuiu.PaulikKV.Sprint2.Task1.V27
             Console.WriteLine("C - " + c);
             Console.WriteLine("D - " + d);
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Результат :                                                             *");
+            Console.WriteLine("* РЕЗУЛЬТАТ :                                                             *");
             Console.WriteLine("***************************************************************************");
             for (int i = 0; i < 6; i++)
             {
