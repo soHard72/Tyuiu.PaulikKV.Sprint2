@@ -19,7 +19,7 @@ namespace Tyuiu.PaulikKV.Sprint2.Task3.V15
             Console.WriteLine("* Тема: Алгоритмы разветвляющейся структуры  C#                           *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #15                                                              *");
-            Console.WriteLine("* Выполнил: Паулик Кирилл Владимирович | АСоиУб-23-3                      *");
+            Console.WriteLine("* Выполнил: Паулик Кирилл Владимирович | АСОиУб-23-3                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет требуемое значение функции Y с    *");
