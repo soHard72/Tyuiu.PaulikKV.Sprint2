@@ -20,6 +20,6 @@ namespace Tyuiu.PaulikKv.Sprint2.Task6.V10.Test
             string wait = "14.12.2005";
             Assert.AreEqual(wait, res);
         }
-            
+
     }
 }

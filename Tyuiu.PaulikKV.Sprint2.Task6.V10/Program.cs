@@ -35,7 +35,7 @@ namespace Tyuiu.PaulikKv.Sprint2.Task6.V10
             Console.WriteLine("Введите день: ");
             int n = Convert.ToInt32(Console.ReadLine());
 
-            if (((m<1)||(m>12))||((n<1)||(n>31)))
+            if (((m < 1) || (m > 12)) || ((n < 1) || (n > 31)))
             {
                 Console.WriteLine("Wrong : Введённые значения даты некорректны !!!");
             }
