@@ -11,6 +11,7 @@ namespace Tyuiu.PaulikKV.Sprint2.Task7.V1.Test
         public void ValidCheckDotInShadeArea()
         {
             DataService ds = new DataService();
+
             double x = 1;
             double y = 1;
             bool res = ds.CheckDotInShadedArea(x, y);

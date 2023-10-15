@@ -28,6 +28,7 @@ namespace Tyuiu.PaulikKV.Sprint2.Task7.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
+
             double x, y;
             Console.WriteLine("Введите координату Х: ");
             x = Convert.ToDouble(Console.ReadLine());
