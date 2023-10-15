@@ -18,6 +18,7 @@ namespace Tyuiu.PaulikKV.Sprint2.Task0.V22.Lib
             res[3] = x > y;
             res[4] = x <= y * 50;
             res[5] = x <= y;
+
             return res;
         }
     }
