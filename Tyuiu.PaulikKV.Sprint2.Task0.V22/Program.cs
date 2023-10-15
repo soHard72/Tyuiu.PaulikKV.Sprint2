@@ -16,8 +16,8 @@ namespace Tyuiu.PaulikKV.Sprint2.Task0.V22
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Алгоритмы разветвляющейся структуры  C#                           *");
-            Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #2                                                              *");
+            Console.WriteLine("* Задание #0                                                              *");
+            Console.WriteLine("* Вариант #22                                                              *");
             Console.WriteLine("* Выполнил: Паулик Кирилл Владимирович | АСОиУб-23-3                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
