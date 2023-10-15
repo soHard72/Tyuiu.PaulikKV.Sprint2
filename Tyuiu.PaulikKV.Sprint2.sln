@@ -53,11 +53,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKV.Sprint2.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{3FAF072E-931D-46CD-8275-F0ADEE29A148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKv.Sprint2.Task6.V10", "Tyuiu.PaulikKv.Sprint2.Task6.V10\Tyuiu.PaulikKv.Sprint2.Task6.V10.csproj", "{1169C6EC-20AC-4204-BE0C-ECEC383DC10C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKV.Sprint2.Task6.V10", "Tyuiu.PaulikKv.Sprint2.Task6.V10\Tyuiu.PaulikKV.Sprint2.Task6.V10.csproj", "{1169C6EC-20AC-4204-BE0C-ECEC383DC10C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKv.Sprint2.Task6.V10.Lib", "Tyuiu.PaulikKv.Sprint2.Task6.V10.Lib\Tyuiu.PaulikKv.Sprint2.Task6.V10.Lib.csproj", "{261F622B-DF97-4FD1-9D43-CBB71E99B92E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKV.Sprint2.Task6.V10.Lib", "Tyuiu.PaulikKv.Sprint2.Task6.V10.Lib\Tyuiu.PaulikKV.Sprint2.Task6.V10.Lib.csproj", "{261F622B-DF97-4FD1-9D43-CBB71E99B92E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKv.Sprint2.Task6.V10.Test", "Tyuiu.PaulikKv.Sprint2.Task6.V10.Test\Tyuiu.PaulikKv.Sprint2.Task6.V10.Test.csproj", "{7255B698-FA6F-41C5-810D-CA2D8C7E08B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.PaulikKV.Sprint2.Task6.V10.Test", "Tyuiu.PaulikKv.Sprint2.Task6.V10.Test\Tyuiu.PaulikKV.Sprint2.Task6.V10.Test.csproj", "{7255B698-FA6F-41C5-810D-CA2D8C7E08B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{20DE3EC7-403D-4F85-8C6E-0C9B6441104B}"
 EndProject
